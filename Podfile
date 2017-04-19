@@ -6,5 +6,5 @@ target 'Infinte PageViewController' do
   use_frameworks!
 
   # Pods for Infinte PageViewController
-
+  pod 'SnapKit'
 end
