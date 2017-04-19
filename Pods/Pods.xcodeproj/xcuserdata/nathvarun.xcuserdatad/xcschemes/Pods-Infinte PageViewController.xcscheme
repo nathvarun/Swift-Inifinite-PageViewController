@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3277AD52F88D234E3CCB0B9165615056"
+               BlueprintIdentifier = "59672DDDE686C32652493494478B6F4D"
                BuildableName = "Pods_Infinte_PageViewController.framework"
                BlueprintName = "Pods-Infinte PageViewController"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3277AD52F88D234E3CCB0B9165615056"
+            BlueprintIdentifier = "59672DDDE686C32652493494478B6F4D"
             BuildableName = "Pods_Infinte_PageViewController.framework"
             BlueprintName = "Pods-Infinte PageViewController"
             ReferencedContainer = "container:Pods.xcodeproj">
