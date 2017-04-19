@@ -1,4 +1,4 @@
-#Infinte Page ViewController
+# Infinte Page ViewController
 
 ## Introduction
 Boilerpate code for creating pages for a PageViewController programmatically on demand.
@@ -6,11 +6,11 @@ Boilerpate code for creating pages for a PageViewController programmatically on 
 ## Who should use this ?
 If you are wondering how you could load data from a remote api and populate pages of your PageViewController dynamically then this repository is for you. 
 
-##Requirements
+## Requirements
 - You should have cocoapods installed 
 	- [Install Cocoapods](https://cocoapods.org)
 
-##Instructions
+## Instructions
 - cd into your project folder in the terminal and install the dependencies.
 
  `pod install`
@@ -18,9 +18,9 @@ If you are wondering how you could load data from a remote api and populate page
 - This will install the following dependencies
 	- SnapKit
 
-##Demo 
+## Demo 
 - Uploading a tutorial with a firebase backend shortly!
 
-##License
-Infinite PageViewController is open-sourced software licensed upnder the [MIT License] (https://opensource.org/licenses/MIT)
+## License
+Infinite PageViewController is open-sourced software licensed upnder the [MIT License](https://opensource.org/licenses/MIT)
 
