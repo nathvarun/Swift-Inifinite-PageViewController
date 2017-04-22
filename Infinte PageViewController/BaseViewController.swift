@@ -35,8 +35,7 @@ class BaseViewController: UIViewController {
         self.view.addSubview(self.articleTitle)
         self.view.addSubview(self.articleChapter)
         
-        self.articleText.keyboardDismissMode = .onDrag
-        self.articleTitle.keyboardDismissMode = .onDrag
+
         
         /** Add Article Title and Article Text and the titleImage to the articleTextContainer**/
         self.articleTextContainer.addSubview(self.articleText)
